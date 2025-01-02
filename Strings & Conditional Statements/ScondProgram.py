@@ -45,9 +45,9 @@
 
 # Problem
 # 1. Check if a number entered by the user is odd or even.
-number = int(input("Enter a number:"))
-reminder = number % 2
-if(reminder == 0):
-        print("number is even")
-else: 
-        print("number is odd")
+# number = int(input("Enter a number:"))
+# reminder = number % 2
+# if(reminder == 0):
+#         print("number is even")
+# else: 
+#         print("number is odd")
