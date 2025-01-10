@@ -20,3 +20,11 @@
 #                 return 1
 #         return fact(n-1) * n
 # print(fact(6))
+
+# def calc_sum(n):
+#         if(n == 0):
+#                 return
+#                 print(n)
+#         calc_sum(n-1) + n
+
+# calc_sum(5)
